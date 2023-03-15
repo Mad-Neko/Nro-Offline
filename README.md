@@ -40,6 +40,7 @@
 ![Screen Shot](images/screenshot.png)
 
 - Action category, Role. Direct control action figure. Easy to play, easy to control character. Sharp graphics. High graphics version for mobile phones and reliable pixel version for low profile machines.
+
 ![Screen Shot](images/screenshot1.png)
 - Plot Close to original . Players will face all the characters from Bunma, Master Roshi, Jacky-chun, Tau PAY PAY ... to Fide, Pic, POC, Xen, Broly, Bojack team.
 
