@@ -74,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
 
 ```
 
-termux-setup-storage -y&& apt update -y&& apt upgrade -y&& pkg install php -y&& pkg install git && pkg install zip -y
+termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install wget && clear
 
 
 ```
@@ -96,18 +96,18 @@ php dragon.php
 
 ``` 
 
-2 - Wait for install!
+2 - Choose 1 and  Wait for install!
  
-3 - Choose Source you want to use! 
+3 -  Choose 2 run server!
  
 6 - Enjoy!
 
 
 ## Usage
 
-1. Đăng ký tài khoản
+1. Sign up account
 
-- Bạn có thể đăng ký tài khoản miễn phí ngay trong game, hoặc trên trang Localhost.
+- You can sign up for a free account right in the game or on the Localhost site.
 
 2. Some basic information
 
