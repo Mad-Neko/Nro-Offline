@@ -101,7 +101,7 @@ php dragon.php
  
 3 -  Choose 2 run server!
  
-6 - Enjoy!
+4 - Enjoy!
 
 
 ## Usage
