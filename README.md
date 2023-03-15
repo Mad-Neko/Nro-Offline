@@ -88,7 +88,7 @@ git clone https://github.com/Mad-Neko/Nro-Offline && cd Nro-Offline
 
 ### Installation
 
-![Screen Shot](images/screenshot3.png)
+![Screen Shot](images/screenshot4.png)
 
 ```
 
