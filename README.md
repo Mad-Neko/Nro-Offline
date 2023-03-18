@@ -69,7 +69,7 @@ NRO Server on Termux Android
 - Install Termux and phpMyadmin
 
 - Download NRO-OFFLINE APK (click on Picture): 
-<a href="https://download1076.mediafire.com/9q2e3k0fyvbgc7gJdyvz47WJ6nn7Y_gQNTqy6svmZ7aqFLlKpt_I8A_a0bKa0pAOgjRzj8rudFKQaTmU1jWWkA3gR33X0w/fivmjpdz4pdp9to/Nro-Offline.apk" target="_blank"><img alt="apk" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/nro.png" />
+<a href="https://github.com/Mad-Neko/backup1/raw/main/file/Nro-Offline.apk" target="_blank"><img alt="apk" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/nro.png" />
 
 </a>
 
