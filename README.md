@@ -81,28 +81,12 @@ This is an example of how to list things you need to use the software and how to
 * Open Termux, copy this line and paste it on Termux
 
 ```
-
-termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install wget && clear
-
-
-```
-Git Clone
-```
-
-git clone https://github.com/Mad-Neko/Nro-Offline && cd Nro-Offline
-
+termux-setup-storage && apt update && pkg upgrade -y -y -y && pkg install python -y && pkg install git -y && pkg install zip -y && pkg install wget - y && git clone https://github.com/Mad-Neko/Nro-Offline && cd Nro-Offline && dragon.py
 ```
 
 ### Installation
 
 ![Screen Shot](images/screenshot4.png)
-
-```
-
-php dragon.php
-
-
-``` 
 
 2 - Choose 1 and  Wait for install!
  
