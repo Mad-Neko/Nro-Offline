@@ -61,7 +61,7 @@ NRO Server on Termux Android
 </a>
 
 - Download phpMyadmin APK (click on Picture): 
-<a href="https://www.mediafire.com/file/h5495dvwokqokw6/sql.zip/file" target="_blank"><img alt="sql" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/sql.png" />
+<a href="https://drive.google.com/file/d/1liJyZHhjm2MAIlP2M8FPBzwWy8JksNRG/view?usp=sharing" target="_blank"><img alt="sql" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/sql.png" />
 
 </a>
 
@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
 * Open Termux, copy this line and paste it on Termux
 
 ```
-termux-setup-storage && apt update && pkg upgrade && pkg install python  && pkg install git && pkg install zip && pkg install wget  && git clone https://github.com/Mad-Neko/Nro-Offline && cd Nro-Offline && dragon.py
+termux-setup-storage && apt update && pkg upgrade && pkg install python  && pkg install git && pkg install zip && pkg install wget  && git clone https://github.com/Mad-Neko/Nro-Offline && cd Nro-Offline && python dragon.py
 ```
 
 ### Installation
