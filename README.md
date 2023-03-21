@@ -85,12 +85,17 @@ termux-setup-storage && apt update && pkg upgrade && pkg install python  && pkg 
 ```
 
 ### Installation
+1 Copy this line and paste it on Termux
+
+```
+python dragon.py
+```
 
 ![Screen Shot](images/screenshot4.png)
 
-2 - Choose 1 and  Wait for install!
+2 - Choose Source and  Wait for install!
  
-3 -  Choose 2 run server!
+3 -  Choose 4 run server!
  
 4 - Enjoy!
 
