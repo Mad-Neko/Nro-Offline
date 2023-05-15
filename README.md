@@ -93,7 +93,8 @@ bash install.sh```
 1 Copy this line and paste it on Termux
 
 ```
-drago
+```
+dragon
 ```
 
 ![Screen Shot](images/screenshot4.png)
