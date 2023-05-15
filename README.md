@@ -87,12 +87,13 @@ git clone https://github.com/Mad-Neko/Nro-Offline
 
 cd Nro-Offline
 
-bash install.sh```
+bash install.sh
+```
 
 ### Installation
 1 Copy this line and paste it on Termux
 
-```
+
 ```
 dragon
 ```
