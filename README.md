@@ -87,25 +87,29 @@ git clone https://github.com/Mad-Neko/Nro-Offline
 
 cd Nro-Offline
 
-bash install.sh
 ```
-
 ### Installation
-1 Copy this line and paste it on Termux
-
 
 ```
-dragon
+bash install.sh
 ```
 
 ![Screen Shot](images/screenshot4.png)
 
-2 - Choose Source and  Wait for install!
+1 - Choose Source and  Wait for install!
  
-3 -  Choose 4 run server!
- 
-4 - Enjoy!
+3- Enjoy!
+### Run
+1 Run server
 
+```
+dragon
+```
+2 Open Menu
+
+```
+menu
+```
 
 ## Usage
 
