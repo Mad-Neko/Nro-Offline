@@ -30,6 +30,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  *  [Run](#run)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Authors](#authors)
