@@ -58,7 +58,7 @@ NRO Server on Termux Android
 ## Getting Started
 
  - Download APK (click on Picture): 
-<a href="https://download.apkcombo.com/com.termux/Termux_0.119.1_apkcombo.com.apk?ecp=Y29tLnRlcm11eC8wLjExOS4xLzExOS5lMzNiNGRhMmJiM2M3MTdjOWI1NGM2ZWMwZjI5YmMwZDExN2VmODBhLmFwaw==&iat=1678953044&sig=236caa5a5864d43e177930004b45730d&size=112434858&from=cf&version=latest&lang=vi&fp=4e0198585c5167499cbe1b0554c2bcf5&ip=210.245.51.174" target="_blank"><img alt="Termux" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/termux.png" />
+<a href="http://d.icdown.club/repository/main/ZeroTermux/ZeroTermux-0.118.32.apk" target="_blank"><img alt="Termux" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/termux.png" />
 </a>
 
 
