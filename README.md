@@ -80,9 +80,9 @@ apt-get update
 
 apt-get upgrade
 
-apt-get install curl jq git zip wget
-
 termux-setup-storage
+
+apt-get install curl bc git zip wget ncurses-utils
 
 git clone https://github.com/Mad-Neko/Nro-Offline
 
